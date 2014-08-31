@@ -1,0 +1,2 @@
+### Why? Oh why?
+Just to take advantage of github pages / github raw usercontent urls that are not changing unlike some cloud hosts. Given this one will have the images for other projects, probably & not wanting to polute those (20Mb gif in one of my repo make cloning it far longer that should be, for example) => this repo.
